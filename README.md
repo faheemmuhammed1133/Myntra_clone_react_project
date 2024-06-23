@@ -16,20 +16,22 @@ I have used React, Chakra, JS, Html, Css to made this project.
 
 - ## <span style="color:blue"> Home Page: Header & Carousel </span>
 <br />
-
+<img src="https://github.com/faheemmuhammed1133/Myntra_clone_react_project/blob/main/carousal.png?raw=true"/>
 - ## <span style="color:blue"> Men Page </span>
 <br />
-
-
+<img src="https://github.com/faheemmuhammed1133/Myntra_clone_react_project/blob/main/men.png?raw=true"/>
 - ## <span style="color:blue"> Women Page </span>
 <br />
-
-- ## <span style="color:blue"> Login Page </span>
+<img src="https://github.com/faheemmuhammed1133/Myntra_clone_react_project/blob/main/women.png?raw=true"/>
+- ## <span style="color:blue"> Kids Page </span>
 <br />
-
+<img src="https://github.com/faheemmuhammed1133/Myntra_clone_react_project/blob/main/kids.png?raw=true"/>
 - ## <span style="color:blue"> Admin Page </span>
 <br />
-
+<img src="https://github.com/faheemmuhammed1133/Myntra_clone_react_project/blob/main/adminDashboard.png?raw=true"/>
+- ## <span style="color:blue"> product view</span>
+<br/>
+<img src="https://github.com/faheemmuhammed1133/Myntra_clone_react_project/blob/main/product_view.png?raw=true"/>
 <hr>
 
 # Collaborators (Team members):-
