@@ -1,3 +1,4 @@
+Figma Link- https://www.figma.com/design/CqPVgkBRaIuIf73l7MQILo/myntraclone?node-id=1-2&t=ONwnCgEDXMCYNzpH-1
 # Myntra_clone_react_project
 Demo day project on Myntra using react js 
  <span style="color:red">Myntra Clone of [Myntra.com](https://www.Myntra.com/) Website </span>
