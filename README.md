@@ -32,7 +32,7 @@ I have used React, Chakra, JS, Html, Css to made this project.
 <img src="https://github.com/faheemmuhammed1133/Myntra_clone_react_project/blob/main/adminDashboard.png?raw=true"/>
 - ## <span style="color:blue"> product view</span>
 <br/>
-<img src="https://github.com/faheemmuhammed1133/Myntra_clone_react_project/blob/main/product_view.png?raw=true"/>
+<img src="https://github.com/faheemmuhammed1133/Myntra_clone_react_project/blob/main/product_view_new.png?raw=true"/>
 <hr>
 
 # Collaborators (Team members):-
